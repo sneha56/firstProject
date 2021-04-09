@@ -1,1 +1,2 @@
 aaamodify a.txt
+add info
